@@ -1,2 +1,2 @@
 hallo every one updated
-get pull
+git pull
